@@ -1,0 +1,450 @@
+[
+  {
+    "phrase": "Ich sehe ___ Mann. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif masculin, l'article défini 'der' devient 'den'.",
+    "traduction": "Je vois l'homme."
+  },
+  {
+    "phrase": "Ich habe ___ Katze. (eine)",
+    "reponse": "eine",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif féminin, l'article indéfini 'eine' reste 'eine'.",
+    "traduction": "J'ai un chat."
+  },
+  {
+    "phrase": "Er kauft ___ Auto. (ein)",
+    "reponse": "ein",
+    "genre": "Neutrum",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif neutre, l'article indéfini 'ein' reste 'ein'.",
+    "traduction": "Il achète une voiture."
+  },
+  {
+    "phrase": "Wir besuchen ___ Freund. (unser)",
+    "reponse": "unseren",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif masculin, l'article possessif 'unser' devient 'unseren'.",
+    "traduction": "Nous rendons visite à notre ami."
+  },
+  {
+    "phrase": "Sie liest ___ Buch. (das)",
+    "reponse": "das",
+    "genre": "Neutrum",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif neutre, l'article défini 'das' reste 'das'.",
+    "traduction": "Elle lit le livre."
+  },
+  {
+    "phrase": "Er isst ___ Apfel. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "À l'accusatif masculin, l'article défini 'der' devient 'den'.",
+    "traduction": "Il mange la pomme."
+  },
+  {
+    "phrase": "Ich trinke ___ Kaffee. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Kaffee' est masculin, et à l'accusatif, l'article défini est 'den'.",
+    "traduction": "Je bois le café."
+  },
+  {
+    "phrase": "Sie hat ___ Hund. (ein)",
+    "reponse": "einen",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Hund' est masculin, et à l'accusatif avec un article indéfini, on utilise 'einen'.",
+    "traduction": "Elle a un chien."
+  },
+  {
+    "phrase": "Er fragt ___ Polizisten. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Polizist' est un nom masculin faible qui prend un -en à l'accusatif.",
+    "traduction": "Il demande au policier."
+  },
+  {
+    "phrase": "Ich sehe ___ Frau. (die)",
+    "reponse": "die",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "'Frau' est féminin, et à l'accusatif, l'article défini est 'die'.",
+    "traduction": "Je vois la femme."
+  },
+  {
+    "phrase": "Ich gebe ___ Mann ein Buch. (der)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "Au datif masculin, l'article défini 'der' devient 'dem'.",
+    "traduction": "Je donne un livre à l'homme."
+  },
+  {
+    "phrase": "Ich spiele mit ___ Katze. (die)",
+    "reponse": "der",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "Au datif féminin, l'article défini 'die' devient 'der'.",
+    "traduction": "Je joue avec le chat."
+  },
+  {
+    "phrase": "Das Auto gehört ___ Kind. (das)",
+    "reponse": "dem",
+    "genre": "Neutrum",
+    "cas": "Datif",
+    "regle": "Au datif neutre, l'article défini 'das' devient 'dem'.",
+    "traduction": "La voiture appartient à l'enfant."
+  },
+  {
+    "phrase": "Wir helfen ___ Frau. (die)",
+    "reponse": "der",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "Au datif féminin, l'article défini 'die' devient 'der'.",
+    "traduction": "Nous aidons la femme."
+  },
+  {
+    "phrase": "Er dankt ___ Lehrer. (der)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "'Lehrer' est masculin, et au datif, l'article défini est 'dem'.",
+    "traduction": "Il remercie le professeur."
+  },
+  {
+    "phrase": "Das Geschenk ist für ___ Mutter. (die)",
+    "reponse": "die",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "La préposition 'für' est toujours suivie de l'accusatif.",
+    "traduction": "Le cadeau est pour la mère."
+  },
+  {
+    "phrase": "Aus ___ Haus kommt Musik. (das)",
+    "reponse": "dem",
+    "genre": "Neutrum",
+    "cas": "Datif",
+    "regle": "La préposition 'aus' est toujours suivie du datif.",
+    "traduction": "De la musique sort de la maison."
+  },
+  {
+    "phrase": "Ich fahre mit ___ Zug. (der)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "La préposition 'mit' est toujours suivie du datif.",
+    "traduction": "Je vais en train."
+  },
+  {
+    "phrase": "Nach ___ Schule gehe ich nach Hause. (die)",
+    "reponse": "der",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "La préposition 'nach' est toujours suivie du datif.",
+    "traduction": "Après l'école, je rentre à la maison."
+  },
+  {
+    "phrase": "Seit ___ einem Jahr lerne ich Deutsch. (ein)",
+    "reponse": "einem",
+    "genre": "Neutrum",
+    "cas": "Datif",
+    "regle": "La préposition 'seit' est toujours suivie du datif.",
+    "traduction": "J'apprends l'allemand depuis un an."
+  },
+  {
+    "phrase": "Ich kaufe ___ Tisch. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Tisch' est masculin, et à l'accusatif, l'article défini est 'den'.",
+    "traduction": "J'achète la table."
+  },
+  {
+    "phrase": "Er sieht ___ Vogel. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Vogel' est masculin, et à l'accusatif, l'article défini est 'den'.",
+    "traduction": "Il voit l'oiseau."
+  },
+  {
+    "phrase": "Sie hat ___ Idee. (eine)",
+    "reponse": "eine",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "'Idee' est féminin, et à l'accusatif, l'article indéfini est 'eine'.",
+    "traduction": "Elle a une idée."
+  },
+  {
+    "phrase": "Ich möchte ___ Kaffee. (einen)",
+    "reponse": "einen",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "'Kaffee' est masculin, et à l'accusatif avec un article indéfini, on utilise 'einen'.",
+    "traduction": "Je voudrais un café."
+  },
+  {
+    "phrase": "Er liest ___ Zeitung. (die)",
+    "reponse": "die",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "'Zeitung' est féminin, et à l'accusatif, l'article défini est 'die'.",
+    "traduction": "Il lit le journal."
+  },
+  {
+    "phrase": "Ich gebe ___ Kind ein Eis. (das)",
+    "reponse": "dem",
+    "genre": "Neutrum",
+    "cas": "Datif",
+    "regle": "Au datif neutre, l'article défini 'das' devient 'dem'.",
+    "traduction": "Je donne une glace à l'enfant."
+  },
+  {
+    "phrase": "Wir fahren zu ___ Bahnhof. (der)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "La préposition 'zu' est toujours suivie du datif. 'Bahnhof' est masculin, donc 'dem'.",
+    "traduction": "Nous allons à la gare."
+  },
+  {
+    "phrase": "Sie kommt aus ___ Schweiz. (die)",
+    "reponse": "der",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "La préposition 'aus' est toujours suivie du datif. 'Schweiz' est féminin, donc 'der'.",
+    "traduction": "Elle vient de Suisse."
+  },
+  {
+    "phrase": "Er arbeitet bei ___ Firma. (einer)",
+    "reponse": "einer",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "La préposition 'bei' est toujours suivie du datif. 'Firma' est féminin, donc 'einer'.",
+    "traduction": "Il travaille dans une entreprise."
+  },
+  {
+    "phrase": "Von ___ Tag an rauche ich nicht mehr. (dem)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "La préposition 'von' est toujours suivie du datif. 'Tag' est masculin, donc 'dem'.",
+    "traduction": "À partir de ce jour, je ne fume plus."
+  },
+  {
+    "phrase": "Ich wohne gegenüber ___ Post. (die)",
+    "reponse": "der",
+    "genre": "Feminin",
+    "cas": "Datif",
+    "regle": "La préposition 'gegenüber' est toujours suivie du datif. 'Post' est féminin, donc 'der'.",
+    "traduction": "J'habite en face de la poste."
+  },
+  {
+    "phrase": "Außer ___ Bruder sind alle da. (der)",
+    "reponse": "dem",
+    "genre": "Maskulin",
+    "cas": "Datif",
+    "regle": "La préposition 'außer' est toujours suivie du datif. 'Bruder' est masculin, donc 'dem'.",
+    "traduction": "À part le frère, tout le monde est là."
+  },
+  {
+    "phrase": "Er geht durch ___ Park. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "La préposition 'durch' est toujours suivie de l'accusatif.",
+    "traduction": "Il traverse le parc."
+  },
+  {
+    "phrase": "Ohne ___ Regenschirm gehe ich nicht raus. (der)",
+    "reponse": "den",
+    "genre": "Maskulin",
+    "cas": "Accusatif",
+    "regle": "La préposition 'ohne' est toujours suivie de l'accusatif.",
+    "traduction": "Je ne sors pas sans le parapluie."
+  },
+  {
+    "phrase": "Gegen ___ Wand lehnt ein Fahrrad. (die)",
+    "reponse": "die",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "La préposition 'gegen' est toujours suivie de l'accusatif.",
+    "traduction": "Un vélo est appuyé contre le mur."
+  },
+  {
+    "phrase": "Um ___ Ecke ist eine Bäckerei. (die)",
+    "reponse": "die",
+    "genre": "Feminin",
+    "cas": "Accusatif",
+    "regle": "La préposition 'um' est toujours suivie de l'accusatif.",
+    "traduction": "Au coin de la rue, il y a une boulangerie."
+  },
+ {
+    "phrase": "Die Kinder spielen im Garten. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "Au datif pluriel, l'article défini 'die' devient 'den'.",
+    "traduction": "Les enfants jouent dans le jardin."
+  },
+  {
+    "phrase": "Ich sehe ___ Vögel. (die)",
+    "reponse": "die",
+    "genre": "Pluriel",
+    "cas": "Accusatif",
+    "regle": "Au pluriel accusatif, l'article défini est 'die'.",
+    "traduction": "Je vois les oiseaux."
+  },
+  {
+    "phrase": "Mit ___ Freunden gehe ich ins Kino. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'mit' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "Je vais au cinéma avec des amis."
+  },
+  {
+    "phrase": "Für ___ Kinder kaufe ich Schokolade. (die)",
+    "reponse": "die",
+    "genre": "Pluriel",
+    "cas": "Accusatif",
+    "regle": "La préposition 'für' est toujours suivie de l'accusatif. Au pluriel, l'article défini est 'die'.",
+    "traduction": "J'achète du chocolat pour les enfants."
+  },
+  {
+    "phrase": "Nach ___ Ferien fängt die Schule wieder an. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'nach' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "Après les vacances, l'école recommence."
+  },
+  {
+    "phrase": "Ich habe ___ Bücher gelesen. (viele)",
+    "reponse": "viele",
+    "genre": "Pluriel",
+    "cas": "Accusatif",
+    "regle": "Sans article, l'adjectif au pluriel accusatif prend la terminaison -e (ici, 'viele' est utilisé comme adjectif).",
+    "traduction": "J'ai lu de nombreux livres."
+  },
+  {
+    "phrase": "Trotz ___ Schwierigkeiten hat er es geschafft. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "La préposition 'trotz' est suivie du génitif. Au pluriel, l'article défini est 'der'.",
+    "traduction": "Malgré les difficultés, il a réussi."
+  },
+  {
+    "phrase": "Wegen ___ hohen Preise kaufe ich nichts. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "La préposition 'wegen' est suivie du génitif. Au pluriel, on utilise 'der'.",
+    "traduction": "À cause des prix élevés, je n'achète rien."
+  },
+  {
+    "phrase": "Während ___ Ferien war ich am Meer. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "La préposition 'während' est suivie du génitif. Au pluriel, l'article défini est 'der'.",
+    "traduction": "Pendant les vacances, j'étais à la mer."
+  },
+  {
+    "phrase": "Anstelle ___ Blumen hat er Pralinen geschenkt. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "La préposition 'anstelle' est suivie du génitif. Au pluriel, on utilise 'der'.",
+    "traduction": "Au lieu de fleurs, il a offert des chocolats."
+  },
+  {
+    "phrase": "Die Autos ___ Leute sind teuer. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "Pour exprimer la possession au pluriel, on utilise le génitif avec 'der'.",
+    "traduction": "Les voitures des gens sont chères."
+  },
+  {
+    "phrase": "Ich bedarf ___ Hilfe meiner Freunde. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "Le verbe 'bedürfen' requiert le génitif. Au pluriel, on utilise 'der'.",
+    "traduction": "J'ai besoin de l'aide de mes amis."
+  },
+  {
+    "phrase": "Er gedenkt ___ Opfer. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "Le verbe 'gedenken' requiert le génitif. Au pluriel, on utilise 'der'.",
+    "traduction": "Il commémore les victimes."
+  },
+  {
+    "phrase": "Die Dächer ___ Häuser sind rot. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "Pour exprimer la possession au pluriel, on utilise le génitif avec 'der'.",
+    "traduction": "Les toits des maisons sont rouges."
+  },
+  {
+    "phrase": "Die Meinung ___ Experten ist wichtig. (die)",
+    "reponse": "der",
+    "genre": "Pluriel",
+    "cas": "Génitif",
+    "regle": "Pour exprimer la possession au pluriel, on utilise le génitif avec 'der'.",
+    "traduction": "L'avis des experts est important."
+  },
+  {
+    "phrase": "Ich fahre mit ___ öffentlichen Verkehrsmitteln. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'mit' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "Je me déplace en transports en commun."
+  },
+  {
+    "phrase": "Von ___ netten Leuten habe ich eine Einladung bekommen. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'von' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "J'ai reçu une invitation de gens sympathiques."
+  },
+  {
+    "phrase": "Zu ___ alten Freunden fahre ich gern. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'zu' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "J'aime aller chez de vieux amis."
+  },
+  {
+    "phrase": "Bei ___ Großeltern gibt es immer leckeres Essen. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'bei' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "Chez les grands-parents, il y a toujours de la nourriture délicieuse."
+  },
+  {
+    "phrase": "Die Kinder spielen mit ___ Bällen. (die)",
+    "reponse": "den",
+    "genre": "Pluriel",
+    "cas": "Datif",
+    "regle": "La préposition 'mit' est toujours suivie du datif. Au pluriel, on utilise 'den'.",
+    "traduction": "Les enfants jouent avec les balles."
+  }
+]
