@@ -1,0 +1,27 @@
+[
+  {
+    "phrase": "Ich ___ nach Berlin ___ (fahren).",
+    "reponse": "bin gefahren",
+    "regle": "Le verbe 'fahren' se conjugue avec 'sein' au Perfekt et son participe passé est 'gefahren'."
+  },
+  {
+    "phrase": "Du ___ ein Buch ___ (lesen).",
+    "reponse": "hast gelesen",
+    "regle": "Le verbe 'lesen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gelesen'."
+  },
+  {
+    "phrase": "Er ___ den ganzen Tag ___ (arbeiten).",
+    "reponse": "hat gearbeitet",
+    "regle": "Le verbe 'arbeiten' se conjugue avec 'haben' au Perfekt et son participe passé est 'gearbeitet'."
+  },
+  {
+    "phrase": "Wir ___ einen Film ___ (sehen).",
+    "reponse": "haben gesehen",
+    "regle": "Le verbe 'sehen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gesehen'."
+  },
+  {
+    "phrase": "Ihr ___ in die Schule ___ (gehen).",
+    "reponse": "seid gegangen",
+    "regle": "Le verbe 'gehen' se conjugue avec 'sein' au Perfekt et son participe passé est 'gegangen'."
+  }
+]
