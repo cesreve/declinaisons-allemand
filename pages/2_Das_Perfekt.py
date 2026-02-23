@@ -130,6 +130,17 @@ with st.expander("4. Exercices"):
 
     st.header("Mode Pratique")
 
+    # recuperer toutes les categories
+    all_categories = list(set([ex["category"] for ex in practice_data]))
+    selected_categories = st.multiselect("Choisissez une ou plusieurs catégories de verbes :", all_categories)
+
+    # Filtrer les exercices en fonction du cas sélectionné
+    if selected_categories:
+        filtered_practice_data = [ex for ex in practice_data if ex["category"] in selected_categories]
+    else:
+        filtered_practice_data = practice_data
+
+
     # Fonctions pour gérer l'état
     def next_question_callback():
         st.session_state.next_question_flag = True
@@ -138,15 +149,16 @@ with st.expander("4. Exercices"):
         st.session_state.answered = True
 
     # Initialiser l'état de la session
-    if "exercise_perfekt" not in st.session_state:
-        st.session_state.exercise_perfekt = random.choice(practice_data)
+    if "exercise_perfekt" not in st.session_state or st.session_state.get("selected_categories") != selected_categories:
+        st.session_state.exercise_perfekt = random.choice(filtered_practice_data)
         st.session_state.answered = False
         st.session_state.user_answer_input = ""
         st.session_state.next_question_flag = False
+        st.session_state.selected_categories = selected_categories
 
     # Gérer le passage à la question suivante
     if st.session_state.get("next_question_flag", False):
-        st.session_state.exercise_perfekt = random.choice(practice_data)
+        st.session_state.exercise_perfekt = random.choice(filtered_practice_data)
         st.session_state.answered = False
         st.session_state.user_answer_input = ""
         st.session_state.next_question_flag = False

@@ -2,26 +2,67 @@
   {
     "phrase": "Ich ___ nach Berlin ___ (fahren).",
     "reponse": "bin gefahren",
-    "regle": "Le verbe 'fahren' se conjugue avec 'sein' au Perfekt et son participe passé est 'gefahren'."
+    "regle": "Le verbe 'fahren' se conjugue avec 'sein' au Perfekt et son participe passé est 'gefahren'.",
+    "category": "fort"
   },
   {
     "phrase": "Du ___ ein Buch ___ (lesen).",
     "reponse": "hast gelesen",
-    "regle": "Le verbe 'lesen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gelesen'."
+    "regle": "Le verbe 'lesen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gelesen'.",
+    "category": "fort"
   },
   {
     "phrase": "Er ___ den ganzen Tag ___ (arbeiten).",
     "reponse": "hat gearbeitet",
-    "regle": "Le verbe 'arbeiten' se conjugue avec 'haben' au Perfekt et son participe passé est 'gearbeitet'."
+    "regle": "Le verbe 'arbeiten' se conjugue avec 'haben' au Perfekt et son participe passé est 'gearbeitet'.",
+    "category": "faible"
   },
   {
     "phrase": "Wir ___ einen Film ___ (sehen).",
     "reponse": "haben gesehen",
-    "regle": "Le verbe 'sehen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gesehen'."
+    "regle": "Le verbe 'sehen' se conjugue avec 'haben' au Perfekt et son participe passé est 'gesehen'.",
+    "category": "fort"
   },
   {
     "phrase": "Ihr ___ in die Schule ___ (gehen).",
     "reponse": "seid gegangen",
-    "regle": "Le verbe 'gehen' se conjugue avec 'sein' au Perfekt et son participe passé est 'gegangen'."
+    "regle": "Le verbe 'gehen' se conjugue avec 'sein' au Perfekt et son participe passé est 'gegangen'.",
+    "category": "fort"
+  },
+  {
+    "phrase": "Ich ___ das nicht ___ (wissen).",
+    "reponse": "habe gewusst",
+    "regle": "Le verbe 'wissen' est un verbe mixte. Il change de voyelle et prend une terminaison de verbe faible.",
+    "category": "mixte"
+  },
+  {
+    "phrase": "Er ___ die Tür ___ (aufmachen).",
+    "reponse": "hat aufgemacht",
+    "regle": "Le verbe 'aufmachen' est un verbe à particule séparable. La particule 'auf' va à la fin.",
+    "category": "séparable"
+  },
+  {
+    "phrase": "Sie ___ die Geschichte ___ (erzählen).",
+    "reponse": "hat erzählt",
+    "regle": "Le verbe 'erzählen' est un verbe à particule inséparable. Le préfixe 'er-' reste soudé.",
+    "category": "inséparable"
+  },
+  {
+    "phrase": "Ich ___ das ___ (können).",
+    "reponse": "habe gekonnt",
+    "regle": "Le verbe 'können' est un verbe de modalité. Son participe passé est 'gekonnt'.",
+    "category": "modal"
+  },
+  {
+    "phrase": "Er ___ müde ___ (sein).",
+    "reponse": "ist gewesen",
+    "regle": "Le verbe 'sein' est un auxiliaire. Son participe passé est 'gewesen'.",
+    "category": "auxiliaire"
+  },
+  {
+    "phrase": "Er ___ sich ___ (waschen).",
+    "reponse": "hat sich gewaschen",
+    "regle": "Le verbe 'sich waschen' est un verbe réfléchi. Le pronom réfléchi 'sich' se place avant le participe passé.",
+    "category": "réfléchi"
   }
 ]
