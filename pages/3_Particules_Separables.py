@@ -45,8 +45,8 @@ with st.expander("Leçon"):
     """)
 
 with st.expander("Exercices"):
+    st.cache_data.clear()
     # Charger les données
-    @st.cache_data
     def load_practice_data():
         with open("data/particules_separables_pratique.json", "r") as f:
             data = json.load(f)
@@ -56,9 +56,12 @@ with st.expander("Exercices"):
 
     st.header("Mode Pratique")
 
-    if 'question_indices_particules' not in st.session_state:
+    difficulty = st.radio("Choisissez un niveau de difficulté :", (1, 2, 3), index=0)
+
+    if 'question_indices_particules' not in st.session_state or st.session_state.get('difficulty') != difficulty:
         st.session_state.question_indices_particules = list(range(len(practice_data)))
         random.shuffle(st.session_state.question_indices_particules)
+        st.session_state.difficulty = difficulty
 
     def reset_session_particules():
         st.session_state.question_indices_particules = list(range(len(practice_data)))
@@ -85,9 +88,15 @@ with st.expander("Exercices"):
 
     current_question_index = st.session_state.question_indices_particules[0]
     exercise = practice_data[current_question_index]
+    
+    phrase_to_display = exercise["phrase"]
+    if difficulty == 1:
+        phrase_to_display += exercise["verbe"]
+    elif difficulty == 2:
+        phrase_to_display += exercise["base_verbe"]
 
     # Afficher l'exercice
-    st.markdown(f'<h3>{exercise["phrase"]}</h3>', unsafe_allow_html=True)
+    st.markdown(f'<h3>{phrase_to_display}</h3>', unsafe_allow_html=True)
     st.markdown(f"<i>{exercise['traduction']}</i>", unsafe_allow_html=True)
 
 

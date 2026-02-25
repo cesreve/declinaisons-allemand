@@ -1,27 +1,107 @@
 [
   {
-    "phrase": "Ich ___ dich später ___ (anrufen).",
+    "phrase": "Ich ___ dich später ___. ",
+    "verbe": "(anrufen)",
+    "base_verbe": "(rufen)",
     "reponse": "rufe an",
     "traduction": "Je t'appelle plus tard."
   },
   {
-    "phrase": "Der Zug ___ um 10 Uhr ___ (abfahren).",
+    "phrase": "Der Zug ___ um 10 Uhr ___. ",
+    "verbe": "(abfahren)",
+    "base_verbe": "(fahren)",
     "reponse": "fährt ab",
     "traduction": "Le train part à 10 heures."
   },
   {
-    "phrase": "Sie ___ die Tür ___ (zumachen).",
+    "phrase": "Sie ___ die Tür ___. ",
+    "verbe": "(zumachen)",
+    "base_verbe": "(machen)",
     "reponse": "macht zu",
     "traduction": "Elle ferme la porte."
   },
   {
-    "phrase": "Wir ___ heute Abend ___ (ausgehen).",
+    "phrase": "Wir ___ heute Abend ___. ",
+    "verbe": "(ausgehen)",
+    "base_verbe": "(gehen)",
     "reponse": "gehen aus",
     "traduction": "Nous sortons ce soir."
   },
   {
-    "phrase": "Du ___ deine Freunde ___ (einladen).",
+    "phrase": "Du ___ deine Freunde ___. ",
+    "verbe": "(einladen)",
+    "base_verbe": "(laden)",
     "reponse": "lädst ein",
     "traduction": "Tu invites tes amis."
+  },
+  {
+    "phrase": "Herr Watzke ___ sich nach dem Essen eine Zigarette ___ .",
+    "verbe": "(anzünden)",
+    "base_verbe": "(zünden)",
+    "reponse": "zündet an",
+    "traduction": "M. Watzke allume une cigarette après le repas."
+  },
+  {
+    "phrase": "Seine neue Freundin ___ ihn fast stündlich ___ .",
+    "verbe": "(anrufen)",
+    "base_verbe": "(rufen)",
+    "reponse": "ruft an",
+    "traduction": "Sa nouvelle petite amie l'appelle presque toutes les heures."
+  },
+  {
+    "phrase": "Die Schüler ___ ihrem Geschichtslehrer nur sehr selten ___ .",
+    "verbe": "(zuhören)",
+    "base_verbe": "(hören)",
+    "reponse": "hören zu",
+    "traduction": "Les élèves n'écoutent que très rarement leur professeur d'histoire."
+  },
+  {
+    "phrase": "Das Fußballspiel ___ morgen bereits um 19:00 Uhr ___ .",
+    "verbe": "(anfangen)",
+    "base_verbe": "(fangen)",
+    "reponse": "fängt an",
+    "traduction": "Le match de football commence demain à 19h00."
+  },
+  {
+    "phrase": "Der Schüler ___ andauernd von seinem Nachbarn ___ .",
+    "verbe": "(abschreiben)",
+    "base_verbe": "(schreiben)",
+    "reponse": "schreibt ab",
+    "traduction": "L'élève copie constamment sur son voisin."
+  },
+  {
+    "phrase": "Euer Schnellzug ___ um 7:17 Uhr auf Gleis 3 ___ .",
+    "verbe": "(abfahren)",
+    "base_verbe": "(fahren)",
+    "reponse": "fährt ab",
+    "traduction": "Votre train express part à 7h17 sur la voie 3."
+  },
+  {
+    "phrase": "Alle Passagiere ___ jetzt in den Bus ___ .",
+    "verbe": "(einsteigen)",
+    "base_verbe": "(steigen)",
+    "reponse": "steigen ein",
+    "traduction": "Tous les passagers montent maintenant dans le bus."
+  },
+  {
+    "phrase": "Familie Wetzel ___ nächste Woche in ihre neue Wohnung ___ .",
+    "verbe": "(umziehen)",
+    "base_verbe": "(ziehen)",
+    "reponse": "zieht um",
+    "traduction": "La famille Wetzel déménage la semaine prochaine dans son nouvel appartement."
+  },
+  {
+    "phrase": "Seit wann ___ der Bus an dieser Haltestelle nicht mehr ___ ?",
+    "verbe": "(anhalten)",
+    "base_verbe": "(halten)",
+    "reponse": "hält an",
+    "traduction": "Depuis quand le bus ne s'arrête-t-il plus à cet arrêt ?"
+  },
+  {
+    "phrase": "Wer von euch ___ heute Abend die Türen ___ ?",
+    "verbe": "(abschließen)",
+    "base_verbe": "(schließen)",
+    "reponse": "schließt ab",
+    "traduction": "Qui parmi vous ferme les portes ce soir ?"
   }
 ]
