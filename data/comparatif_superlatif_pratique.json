@@ -1,3 +1,4 @@
+
 [
     {
         "phrase": "Mein Auto ist ___ als deins. (schnell)",
@@ -23,5 +24,80 @@
         "phrase": "Ich trinke ___ Kaffee als Tee. (gern)",
         "reponse": "lieber",
         "traduction": "Je préfère boire du café que du thé."
+    },
+    {
+        "phrase": "Dieses Buch ist ___ als der Film. (interessant)",
+        "reponse": "interessanter",
+        "traduction": "Ce livre est plus intéressant que le film."
+    },
+    {
+        "phrase": "Er ist der ___ Läufer im Team. (schnell)",
+        "reponse": "schnellste",
+        "traduction": "C'est le coureur le plus rapide de l'équipe."
+    },
+    {
+        "phrase": "Die Tage im Winter sind ___ als im Sommer. (kurz)",
+        "reponse": "kürzer",
+        "traduction": "Les jours en hiver sont plus courts qu'en été."
+    },
+    {
+        "phrase": "Sie hat die ___ Haare von allen. (lang)",
+        "reponse": "längsten",
+        "traduction": "Elle a les cheveux les plus longs de toutes."
+    },
+    {
+        "phrase": "Ein Flugzeug ist ___ als ein Zug. (teuer)",
+        "reponse": "teurer",
+        "traduction": "Un avion coûte plus cher qu'un train."
+    },
+    {
+        "phrase": "Das ist das ___ Essen, das ich je gegessen habe. (schlecht)",
+        "reponse": "schlechteste",
+        "traduction": "C'est le pire repas que j'aie jamais mangé."
+    },
+    {
+        "phrase": "Gesundheit ist ___ als Geld. (wichtig)",
+        "reponse": "wichtiger",
+        "traduction": "La santé est plus importante que l'argent."
+    },
+    {
+        "phrase": "Er wohnt am ___ von der Schule. (weit)",
+        "reponse": "weitesten",
+        "traduction": "Il habite le plus loin de l'école."
+    },
+    {
+        "phrase": "Meine neue Wohnung ist ___ als die alte. (groß)",
+        "reponse": "größer",
+        "traduction": "Mon nouvel appartement est plus grand que l'ancien."
+    },
+    {
+        "phrase": "Das war die ___ Entscheidung meines Lebens. (gut)",
+        "reponse": "beste",
+        "traduction": "C'était la meilleure décision de ma vie."
+    },
+    {
+        "phrase": "Der Kaffee hier ist ___ als zu Hause. (billig)",
+        "reponse": "billiger",
+        "traduction": "Le café ici est moins cher qu'à la maison."
+    },
+    {
+        "phrase": "Sie ist die ___ Person, die ich kenne. (freundlich)",
+        "reponse": "freundlichste",
+        "traduction": "C'est la personne la plus gentille que je connaisse."
+    },
+    {
+        "phrase": "Die Suppe ist ___ als der Salat. (warm)",
+        "reponse": "wärmer",
+        "traduction": "La soupe est plus chaude que la salade."
+    },
+    {
+        "phrase": "Er spricht ___ Deutsch als Englisch. (fließend)",
+        "reponse": "fließender",
+        "traduction": "Il parle allemand plus couramment que l'anglais."
+    },
+    {
+        "phrase": "Das ist der ___ Witz, den ich je gehört habe. (lustig)",
+        "reponse": "lustigste",
+        "traduction": "C'est la blague la plus drôle que j'aie jamais entendue."
     }
 ]
